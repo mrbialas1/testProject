@@ -1,3 +1,2 @@
-# testProject
-Pierwsze zadanie
+My first GIT
 
