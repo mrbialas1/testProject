@@ -1,2 +1,1 @@
-My first GIT repository commands practised
-
+my first git repository commands practised
